@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Kufam:wght@400;600;700;800&family=Marvel:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+html {
+    font-family: $main-font, $font-fallback;
+}
+
+h1, h2, h3, h4 {
+    font-family: $main-font, $font-fallback;
+    font-weight: bold;
+    
+}

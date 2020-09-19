@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "prod": "NODE_ENV=production node parcel-bundler-prod.js"
+  },
+  "devDependencies": {
+    "parcel-bundler": "*",
+    "sass": "^1.26.10"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "reset-css": "*"
+  }
+}
