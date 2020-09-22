@@ -6,4 +6,5 @@ content/upgrade
 content/uploads
 content/plugins/*
 !content/plugins/classic-editor
+content/themes/*
 !content/themes/marvelblog
