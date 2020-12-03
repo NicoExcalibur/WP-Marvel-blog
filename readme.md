@@ -12,4 +12,4 @@ Un thème customisé aux couleurs de Marvel pour un blog consacré au célèbre 
 
 ### Homepage
 
-![marvelblog](readme/marvelblog.png)
+![marvelblog](readme/marvelblog.PNG)
