@@ -4,7 +4,7 @@
     "prod": "NODE_ENV=production node parcel-bundler-prod.js"
   },
   "devDependencies": {
-    "parcel-bundler": "*",
+    "parcel-bundler": "^1.12.5",
     "sass": "^1.26.11"
   },
   "dependencies": {

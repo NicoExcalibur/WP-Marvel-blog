@@ -1,13 +1,13 @@
 .header {
-    background-color: $redmarvel;
-    padding: 0.5em;
+  background-color: $redmarvel;
+  padding: 0.5em;
+  color: white;
+  &__content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  a {
     color: white;
-        &__content {
-            display: flex;
-            flex-direction: row;
-            justify-content: space-between;
-    }
-        a {
-            color: white;
-    }
+  }
 }
